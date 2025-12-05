@@ -30,7 +30,7 @@ let startTime = null;
 let accuracyThreshold = 0.75; // stop when reached
 
 // Google Apps Script endpoint (paste your deployed web app URL here)
-let GAS_ENDPOINT = "REPLACE_WITH_YOUR_APPS_SCRIPT_WEB_APP_URL";
+let GAS_ENDPOINT = "https://rebeccamecham.github.io/force_field_experiment/";
 
 
 function setup() {
